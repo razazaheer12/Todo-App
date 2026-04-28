@@ -15,8 +15,8 @@ A sleek, modern, and fully responsive **Todo App** that helps you stay organized
 
 ## 📸 Preview
 
-[Todo App Preview](<img width="820" height="395" alt="image" src="https://github.com/user-attachments/assets/4ebe4b2f-84b0-465e-9dfb-ad43edea978f" />
-)
+<img width="820" height="395" alt="image" src="https://github.com/user-attachments/assets/de360d71-f9cd-43aa-a91b-c684ca636e1b" />
+
 
 > **Live URL:** [https://todo-app-2001.netlify.app/](https://todo-app-2001.netlify.app/)
 
